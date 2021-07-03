@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  bottom: 0;
+  color: #000;
+}
+
+.wrapper {
+  width: 900px;
+  text-align: justify;
+  margin: 40px auto;
+}
+
+.title,
+.text {
+  font-family: 'Roboto Slab', serif;
+}
+
+.translate {
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: oblique;
+}
+
+.capel {
+  font-style: normal;
+  font-variant: small-caps;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 40px;
+}
